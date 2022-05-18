@@ -3,7 +3,7 @@
 		<div class="content-wrapper">
 			<div class="content-inner">
 				<h2>Magento 2 Zipcode COD Check Extension</h2>
-				<p><strong><a href="">Magento 2 Zipcode COD Check Extension</a></strong> is very useful at the time of shipping and delivery as it allows the customers to select the nearest pickup option around the store.</p>
+				<p><strong><a href="https://www.mageants.com/zipcode-cod-check-extension-magento-2.html">Magento 2 Zipcode COD Check Extension</a></strong> is very useful at the time of shipping and delivery as it allows the customers to select the nearest pickup option around the store.</p>
 				<p>Magento 2 Zipcode COD Check is a type of extension that helps website users in checking several payment options that are available or not for their zip codes.
 </p>
 				<div class="features-wrapper">
